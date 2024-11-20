@@ -1,6 +1,6 @@
-- nom :
-- prénom :
-- URL Netlify :
+- nom : ADDARIO
+- prénom : Maëlie
+- URL Netlify : https://snazzy-gingersnap-1dae82.netlify.app/
 
 # Travail
 
